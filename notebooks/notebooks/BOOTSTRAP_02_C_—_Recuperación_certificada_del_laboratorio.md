@@ -1,0 +1,1 @@
+* El Notebook especifica las partes que se tienen dentro de Drive con la base de datos del SECOP II dividido en 188/188 partes verificadas, 5.633.184 filas reproducidas por Arrow y DuckDB, 98 columnas, Parquet íntegro, referencia **UNSPSC** íntegra
